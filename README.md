@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=atulgupta002&style=flat-square" alt="Profile Views"/>
+</div>
+
 <div align='center'>
   <img src="https://github.com/atulgupta002/atulgupta002/blob/main/tools.png" alt="Alt Text" width="400"/>
 </div>
