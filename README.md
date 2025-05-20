@@ -23,5 +23,5 @@
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-<b>Check out my website:</b> <a href="https://atul-gupta.com/" target="_blank">https://atul-gupta.com/</a>
+<!-- <b>Check out my website:</b> <a href="https://atul-gupta.com/" target="_blank">https://atul-gupta.com/</a> -->
 </div>
